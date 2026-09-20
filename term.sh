@@ -1,1 +1,1 @@
-echo “hi from $(hostname -I)"
+echo "hi from $(hostname -I)"
