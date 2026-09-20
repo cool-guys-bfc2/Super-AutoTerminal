@@ -1,3 +1,2 @@
 echo hi
-echo "from $()"
-ip route get 1.2.3.4 | awk '{print $7}'
+echo "from $(hostname -I)"
